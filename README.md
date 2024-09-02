@@ -7,6 +7,26 @@ By GPT-4o & TJJ
 
 ---
 
+**效果：**
+
+原文件1
+
+![image](https://github.com/user-attachments/assets/5f648ae0-e76d-48a3-b1db-499c79f4a3ed)
+
+PPT1
+
+![image](https://github.com/user-attachments/assets/21f003fc-c194-46bc-8cfe-fe334deae175)
+
+原文件2：对空白部分自动去除，自适应图片大小
+
+![image](https://github.com/user-attachments/assets/28c24cdc-5ae9-44c6-bd65-1074529df134)
+
+PPT2
+
+![image](https://github.com/user-attachments/assets/12342c54-d88f-4062-a286-760b2add91d8)
+
+---
+
 ### 代码结构概述
 
 代码整体分为以下几个模块：
